@@ -14,13 +14,13 @@ Welcome to my portfolio, where I showcase a selection of my coding projects. Bel
     * Implementing the `Model-View-Controller` (MVC) design pattern
     * Version control using Git and GitHub
 
-*  [Front-End Design of a Streaming Web App](https://github.com/VisualDev-FR/openclassroom-P06)
+*  [Front-End Design of a Streaming Web App](https://github.com/VisualDev-FR/openclassrooms-P06)
     * Fetching and running a Django-rest API
     * Interacting with a Rest API
     * Designing web pages with `HTML5` and `CSS3`
     * Creating dynamic web page behavior using vanilla `JavaScript`
 
-*  [Algorithm Optimization with Python](https://github.com/VisualDev-FR/openclassroom-P07)
+*  [Algorithm Optimization with Python](https://github.com/VisualDev-FR/openclassrooms-p7)
     * Problem-solving applied to the `knapsack problem`
     * Implementation of a brute-force algorithm
     * `Dynamic programming` implementation
@@ -40,6 +40,7 @@ Welcome to my portfolio, where I showcase a selection of my coding projects. Bel
     * Handling user `permissions` for application resources
     * Designing and implementing `data models`
     * Configuring Python environment with `Pipenv`
+    * Configuring a github `Dependabot`
 
 *  [Debugging and testing a Flask web application](https://github.com/VisualDev-FR/openclassrooms-P11)
     * Analyzing and fixing bugs in code written by another programmer
